@@ -79,3 +79,19 @@ input[type=submit] {
 input[type=submit]:hover {
     background-color: #3c8c88;
 }
+
+.project {
+    float: left;
+    width: 200px;
+    height: 250px;
+    width: 175px;
+    margin: 25px 25px 25px 25px;
+}
+
+.project_text {
+    position: absolute;
+    color: white;
+    background-color: #3c8c88;
+    bottom: 15px;
+    padding: 5px 20px 5px 20px;
+}
