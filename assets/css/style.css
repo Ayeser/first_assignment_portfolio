@@ -29,6 +29,7 @@ body {
     font-size: 14pt;
 }
 
+/* Currently 'logo' is where it says Matthew Wester on top bar */
 .logo {
     background: #4aaaa5;
     color: white;
@@ -78,6 +79,7 @@ input[type=submit] {
     cursor: pointer;
 }
 
+/* when hovering the color of the button changes slightly */
 input[type=submit]:hover {
     background-color: #3c8c88;
 }
@@ -94,6 +96,7 @@ img {
     margin: 10px 25px 10px 25px;
 }
 
+/* The top is -90px so the text can be seen on top of the project images */
 .project_text {
     position: relative;
     top: -90px;
